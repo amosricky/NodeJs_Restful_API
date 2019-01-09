@@ -1,4 +1,4 @@
-# qnaper_rest_api_tdd/bdd
+# qnaper_rest_api_tdd_bdd
 
 #This is a restful api (Express+MongoDB.) 
 #Here is my Medium. You can realize this project more clear.
